@@ -7,5 +7,5 @@ $ yarn add -D prettier
 
 ### eslint
 ```sh
-$ yarn add -D eslint
+$ npx install-peerdeps --dev eslint-config-airbnb
 ```
